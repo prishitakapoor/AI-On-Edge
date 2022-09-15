@@ -1,4 +1,4 @@
-# AI on Edge
+# IoT devices controller
 1. This is a platform for controlling the IoT devices.
 2. Admins can register various types of sensors with their properties, and developers can up-load and run/schedule IOT based algorithms
 on them.
